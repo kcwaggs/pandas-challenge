@@ -10,6 +10,8 @@ I used the the starter file from the data pack to begin my analysis
 ## Notes:
 When I first calculated the total budget, I did not think to use the separate CSV files to calculate it. I ended up formulating the total based on the merged dataframe. After some review I realized I could have simplified this by calculating the total budget from the original 'schools_complete.csv'. I ended up creating 'total_budget' and 'total_budget_2' inputs to show you my calculations from 1 - the merged dataset 2 - reading the original CSV file. 
 
+I found that with nearly every step you can calculate fields by using the separated CSV files or the merged files. I am attempting to do both methods to better understand the data manipulation. Most likely, in my work I would be using one large file as compared to merging two files. 
+
 ## Resources:
 
 Using .drop_duplicates: https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-across-multiple-columns-in-python-pandas
