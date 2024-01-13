@@ -7,3 +7,6 @@ I used the the starter file from the data pack to begin my analysis
     PyCitySchools_starter.ipynb
     Renamed to: PyCitySchools.ipynb
 
+Resources:
+
+Using .drop_duplicates: https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-across-multiple-columns-in-python-pandas
