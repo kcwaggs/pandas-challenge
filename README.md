@@ -16,3 +16,6 @@ I found that with nearly every step you can calculate fields by using the separa
 ## Resources:
 
 Using .drop_duplicates: https://stackoverflow.com/questions/23667369/drop-all-duplicate-rows-across-multiple-columns-in-python-pandas
+Formatting for % and decimal places: https://saturncloud.io/blog/how-to-format-certain-floating-dataframe-columns-into-percentage-in-pandas/#:~:text=To%20format%20the%20Discount%20column,each%20value%20in%20the%20column.
+Rounding decimals: https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/#:~:text=Pandas%20round()%20Method%20Example&text=round(2)%20return%20rounds%20a%20number%20to%20two%20decimal%20places.
+Change Index Column Name: https://sparkbyexamples.com/pandas/pandas-set-index-name-to-dataframe/
